@@ -2,7 +2,7 @@
 
 ## 2020 
 
-- SIGIR 2020
+### SIGIR 2020
 
   1. KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation
 
@@ -26,12 +26,12 @@
 
   11. Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation
 
-- WSDM 2020
+### WSDM 2020
   	1. End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding
 	2. Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation
-- Arxiv
+### Arxiv
   1. Validation Set Evaluation can be Wrong: An Evaluator-Generator Approach for Maximizing Online Performance of Ranking in E-commerce [link](https://arxiv.org/abs/2003.11941)
 
 ## 2019
-- SIGKDD 2019
+### SIGKDD 2019
 	1. Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [link](https://arxiv.org/abs/1902.05570)
