@@ -68,8 +68,8 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
   1. Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/doi/10.1145/3219819.3220122)
 
 ### WWW 2018
-  1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**
-  2. Learning to Collaborate-Multi-Scenario Ranking via Multi-Agent Reinforcement Learning
+  1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation** [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
+  2. Learning to Collaborate-Multi-Scenario Ranking via Multi-Agent Reinforcement Learning [paper](https://arxiv.org/abs/1809.06260)
   3. Reinforcement Mechanism Design for e-commerce [paper](https://arxiv.org/pdf/1708.07607.pdf)
 
 ### RecSys
