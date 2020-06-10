@@ -57,7 +57,7 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
 ### CIKM 2019
 ### SIGIR 2019
 
-### 2019 NeurIPS
+### NeurIPS 2019
   1. A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation [paper](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation.pdf)
   2. Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning [paper](http://people.ee.duke.edu/~lcarin/Ruiyi_NeurIPS2019.pdf)
 
@@ -72,7 +72,7 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
   2. Learning to Collaborate-Multi-Scenario Ranking via Multi-Agent Reinforcement Learning [paper](https://arxiv.org/abs/1809.06260)
   3. Reinforcement Mechanism Design for e-commerce [paper](https://arxiv.org/pdf/1708.07607.pdf)
 
-### RecSys
+### RecSys 2018
   1. **Deep Reinforcement Learning for Page-wise Recommendations**
 
 ### Preprint paper
