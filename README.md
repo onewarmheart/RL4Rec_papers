@@ -1,10 +1,10 @@
 # RL4Rec_papers
 
-This list is one of the most complete collection for papers about RL based recommender system, and  it especilly focuses on actual engineering experience from companies .
+This list is one of the most complete collection for papers about RL based recommender system, and  it especially focuses on actual engineering experience from companies .
 
 I do believe a RL based recommender system is trustworthy **if and only if the online A/B tests have been conducted** (They usually comes from companies), so I marked these papers' title in bold.
 
-Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangzhen/DRL4Recsys),  but pays more attention to the works already tested in real-world senario.
+Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangzhen/DRL4Recsys),  but pays more attention to the works already tested in real-world scenario.
 
 ## Selected Papers (Must Read)
 
@@ -12,6 +12,13 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
   2. Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [paper](https://arxiv.org/abs/1802.06501)
   3. Top-K Off-Policy Correction for a REINFORCE Recommender System [paper](https://arxiv.org/pdf/1812.02353.pdf)
   4. Deep Reinforcement Learning for Search, Recommendation, and Online Advertising A Survey [paper](https://arxiv.org/abs/1812.07127)
+
+## Technical Blog(Chinese)
+1. [阿里巴巴-脱胎换骨的生成模式：强化学习重排](https://mp.weixin.qq.com/s/u44neSzF2Iqyv-i1Fc4lsQ)
+2. [滴滴出行-基于强化学习的 Contextual Bandits 算法在推荐场景中的应用](https://mp.weixin.qq.com/s/6zzOU_hrtAGFPnDz2KuqVg)
+3. [阿里巴巴-强化学习在阿里的技术演进和业务创新](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1517812754285/reinforcement_learning.pdf)
+4. [美团-强化学习在美团“猜你喜欢”的实践](https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html)
+
 
 ## 2020 
 
@@ -31,6 +38,9 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
   1. End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371858)
 
   2. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**
+
+### WWW 2020
+  1. [Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation](https://arxiv.org/pdf/2004.01136.pdf)
 
 ### Preprint paper
   1. **Validation Set Evaluation can be Wrong: An Evaluator-Generator Approach for Maximizing Online Performance of Ranking in E-commerce**  [paper](https://arxiv.org/abs/2003.11941)
