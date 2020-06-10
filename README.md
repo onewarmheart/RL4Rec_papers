@@ -7,6 +7,7 @@ I do believe a RL based recommender system is trustworthy **if and only if the o
 Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangzhen/DRL4Recsys),  but pays more attention to the works already tested in real-world senario.
 
 ## Selected Papers (Must Read)
+
   1. DRN: A Deep Reinforcement Learning Framework for News Recommendation [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
   2. Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [paper](https://arxiv.org/abs/1802.06501)
   3. Top-K Off-Policy Correction for a REINFORCE Recommender System [paper](https://arxiv.org/pdf/1812.02353.pdf)
@@ -18,7 +19,7 @@ Notes: This repo is similar to [@cszhangzhen's repo](https://github.com/cszhangz
   1. KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation
   2. Self-Supervised Reinforcement Learning for Recommender Systems
   3. Reinforcement Learning to Rank with Pairwise Policy Gradient
-  4. **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations **[paper](https://arxiv.org/pdf/1903.09374.pdf)
+  4. **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations** [paper](https://arxiv.org/pdf/1903.09374.pdf)
   5. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning**
   6. Adversarial Attack and Detection on Reinforcement Learning based Recommendation System
   7. Reinforcement Learning based Recommendation with Graph Convolutional Q-network
